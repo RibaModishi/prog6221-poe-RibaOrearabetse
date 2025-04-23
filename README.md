@@ -28,7 +28,7 @@ Built in C# for the .NET platform, the application features:
 
 ### Core Functionality
 ✅ Personalized greetings using user's name  
-✅ Audio welcome message (WAV format)  
+✅ Audio welcome message (MP3 format)  
 ✅ ASCII art interface header  
 ✅ Interactive phishing scenario practice  
 ✅ Password strength guidance  
@@ -53,4 +53,4 @@ Built in C# for the .NET platform, the application features:
 ### Setup Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ST10446648/Cybersecurity-Chatbot.git
+   git clone https://github.com/IIEMSA/prog6221-poe-RibaOrearabetse.git
