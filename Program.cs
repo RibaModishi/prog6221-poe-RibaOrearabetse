@@ -3,7 +3,7 @@
 namespace CybersecurityAwarenessBot
 {
     /// <summary>
-    /// Main program class - coordinates the application flow
+    /// Main program class - coordinates the application flow.
     /// </summary>
     class Program
     {
